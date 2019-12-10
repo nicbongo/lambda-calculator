@@ -12,6 +12,15 @@ import { numbers } from '../../../data'
 const Numbers = () => {
   // STEP 2 - add the imported data to state
   const [numButton] = useState(numbers);
+
+  const [numVal, setNumVal] = useState(0);
+
+  const num1 = () => {
+    setNumVal(numVal + 1)
+  }
+
+
+
   return (
     <div>
       {/* STEP 3 - Use .map() to iterate over your array data and return a button
