@@ -54,9 +54,9 @@ Using the design file, build out your User Interface. Before you start, look thr
 
 **STEP 1**
 
-- [ ] You have been given a Data.js file that contains some arrays.
-- [ ] Find a way to bring (import) the data into the necessary files, but do not change the data.
-- [ ] Data should be imported into the wrapper components (`Numbers`, `Operators`, and `Specials`)
+- [x] You have been given a Data.js file that contains some arrays.
+- [x] Find a way to bring (import) the data into the necessary files, but do not change the data.
+- [x] Data should be imported into the wrapper components (`Numbers`, `Operators`, and `Specials`)
 
 **Step 2**
 Add the data to state like this:
@@ -72,12 +72,12 @@ const [numberState, setNumberState] = useState(numbers);
 
 **Step 3**
 
-- [ ] Map over the data and dynamically render components for each piece of data in the arrays.
-- [ ] You will need to import the component that you'll render in the map function.
+- [x] Map over the data and dynamically render components for each piece of data in the arrays.
+- [x] You will need to import the component that you'll render in the map function.
 
 **STEP 4**
 
-- [ ] Import the wrapper button components into `App.js`
+- [x] Import the wrapper button components into `App.js`
 - [ ] Import the display components into `App.js` as well
 - [ ] Compose all the components inside the `App` component to get your calculator rendering on the DOM
 
