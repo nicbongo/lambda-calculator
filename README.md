@@ -43,7 +43,7 @@ Follow these steps for completing your project.
 
 **A job just came down from the Big Boss!**
 
-- [ ] A prospective client has tasked you with building a calculator app. They need you to build the app using the file structure and component wire frame provided.
+- [x] A prospective client has tasked you with building a calculator app. They need you to build the app using the file structure and component wire frame provided.
 - [ ] Get all necessary files connected and either taking in or sending out data.
 - [ ] The design file should be followed as close as possible but doesn't have to be pixel perfect - budget your time wisely.
 - [ ] The client will provide their own proprietary calculator software so your app only needs basic functionality, enough for a demo.
